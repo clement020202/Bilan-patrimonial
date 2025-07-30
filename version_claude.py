@@ -17,7 +17,7 @@ from email.mime.base import MIMEBase
 from email import encoders
 import tempfile
 import os
-from weasyprint import HTML, CSS
+#from weasyprint import HTML, CSS
 from jinja2 import Template
 
 # Ajoutez ceci tout en haut de votre fichier (après les imports)
